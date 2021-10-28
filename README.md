@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AldoMagallon95
-- 👀 I’m interested in python/java developing
+- 👀 I’m interested in web/java developing
 - 🌱 I’m currently learning frontend developing
 - 🌱 Environmental scientist
 - 📫 How to reach me aldomaster95@gmail.com
